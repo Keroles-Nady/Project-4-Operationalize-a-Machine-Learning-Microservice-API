@@ -1,0 +1,6 @@
+REPOSITORY                    TAG       IMAGE ID       CREATED             SIZE
+mlmicapi                      latest    a6b5ff2c1065   6 seconds ago       1.39GB
+keroles11/mlmicapi            latest    33816a583d58   57 minutes ago      1.39GB
+kerolesnady/mlmicapi          latest    33816a583d58   57 minutes ago      1.39GB
+<none>                        <none>    bbfb4b112a1b   About an hour ago   1.39GB
+gcr.io/k8s-minikube/kicbase   v0.0.37   01c0ce65fff7   3 weeks ago         1.15GB
